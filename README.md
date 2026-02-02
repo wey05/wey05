@@ -61,9 +61,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wey05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700)
+<!-- GitHub Stats -->
+<a href="https://github.com/wey05">
+  <img src="https://github-readme-stats.vercel.app/api?username=wey05&show_icons=true&theme=radical" alt="GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wey05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9)
+<!-- Top Languages -->
+<a href="https://github.com/wey05">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wey05&layout=compact&theme=radical" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -73,17 +79,23 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wey05&theme=radical&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FF6347&currStreakLabel=FFD700)
+<!-- GitHub Streak -->
+<a href="https://github.com/wey05">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wey05&theme=radical" alt="GitHub Streak" />
+</a>
 
 </div>
 
 ---
 
-## � 活跃度统计
+## 📈 活跃度统计
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wey05&theme=radical&bg_color=0D1117&color=FFD700&line=FF6347&point=FFFFFF)
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/wey05">
+  <img src="https://activity-graph.herokuapp.com/graph?username=wey05&theme=radical" alt="GitHub Activity Graph" />
+</a>
 
 </div>
 
@@ -93,14 +105,17 @@
 
 <div align="center">
 
-<a href="https://github.com/wey05/repo1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wey05&repo=repo1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700" />
+<!-- 项目卡片 - 请替换为你的实际项目 -->
+<a href="https://github.com/wey05">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wey05&repo=git&theme=radical" alt="Git Project" />
 </a>
-<a href="https://github.com/wey05/repo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wey05&repo=repo2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700" />
+
+<a href="https://github.com/wey05">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wey05&repo=python&theme=radical" alt="Python Project" />
 </a>
-<a href="https://github.com/wey05/repo3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wey05&repo=repo3&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700" />
+
+<a href="https://github.com/wey05">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wey05&repo=java&theme=radical" alt="Java Project" />
 </a>
 
 </div>
@@ -140,7 +155,7 @@
 
 **Made with ❤️ by Wey05**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=wey05.wey05&left_color=0D1117&right_color=FFD700)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=wey05.wey05)
 
 </div>
 
@@ -148,6 +163,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=wey05&style=for-the-badge&color=FFD700)
+![Profile Views](https://komarev.com/ghpvc/?username=wey05&style=for-the-badge)
 
 </div>
