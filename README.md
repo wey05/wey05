@@ -56,74 +56,7 @@
 </div>
 
 
----
 
-
-## 📊 GitHub 统计
-
-<div align="center">
-
-<!-- GitHub Stats - 使用自部署实例 -->
-<a href="https://github.com/wey05">
-  <img src="https://wey05.github.io/github-readme-stats/api?username=wey05&show_icons=true&theme=radical" alt="GitHub Stats" />
-</a>
-
-<!-- Top Languages - 使用自部署实例 -->
-<a href="https://github.com/wey05">
-  <img src="https://wey05.github.io/github-readme-stats/api/top-langs/?username=wey05&layout=compact&theme=radical" alt="Top Languages" />
-</a>
-
-</div>
-
----
-
-## 🏆 成就徽章
-
-<div align="center">
-
-<!-- GitHub Streak -->
-<a href="https://github.com/wey05">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wey05&theme=radical" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
-## 📈 活跃度统计
-
-<div align="center">
-
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/wey05">
-  <img src="https://activity-graph.herokuapp.com/graph?username=wey05&theme=radical" alt="GitHub Activity Graph" />
-</a>
-
-</div>
-
----
-
-## 💻 精选项目
-
-<div align="center">
-
-<!-- 项目卡片 - 使用自部署实例，请替换为你的实际项目 -->
-<a href="https://github.com/wey05">
-  <img src="https://wey05.github.io/github-readme-stats/api/pin/?username=wey05&repo=git&theme=radical" alt="Git Project" />
-</a>
-
-<a href="https://github.com/wey05">
-  <img src="https://wey05.github.io/github-readme-stats/api/pin/?username=wey05&repo=python&theme=radical" alt="Python Project" />
-</a>
-
-<a href="https://github.com/wey05">
-  <img src="https://wey05.github.io/github-readme-stats/api/pin/?username=wey05&repo=java&theme=radical" alt="Java Project" />
-</a>
-
-</div>
-
-
----
 
 ## 📫 联系方式
 
