@@ -61,9 +61,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wey05&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wey05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wey05&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wey05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9)
 
 </div>
 
@@ -73,7 +73,17 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wey05&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wey05&theme=radical&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FF6347&currStreakLabel=FFD700)
+
+</div>
+
+---
+
+## � 活跃度统计
+
+<div align="center">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wey05&theme=radical&bg_color=0D1117&color=FFD700&line=FF6347&point=FFFFFF)
 
 </div>
 
@@ -83,11 +93,15 @@
 
 <div align="center">
 
-| 项目名称 | 描述 | 技术 |
-|---------|------|------|
-| [项目一](#) | 项目描述 | 技术栈 |
-| [项目二](#) | 项目描述 | 技术栈 |
-| [项目三](#) | 项目描述 | 技术栈 |
+<a href="https://github.com/wey05/repo1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wey05&repo=repo1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700" />
+</a>
+<a href="https://github.com/wey05/repo2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wey05&repo=repo2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700" />
+</a>
+<a href="https://github.com/wey05/repo3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wey05&repo=repo3&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700" />
+</a>
 
 </div>
 
@@ -97,7 +111,7 @@
 
 <div align="center">
 
-📧 **邮箱**: [your.email@example.com](mailto:your.email@example.com)
+📧 **邮箱**: [1436370639@qq.com](mailto:1436370639@qq.com)
 
 🔗 **网站**: [https://yourwebsite.com](https://yourwebsite.com)
 
@@ -126,6 +140,14 @@
 
 **Made with ❤️ by Wey05**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=wey05.wey05)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=wey05.wey05&left_color=0D1117&right_color=FFD700)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=wey05&style=for-the-badge&color=FFD700)
 
 </div>
