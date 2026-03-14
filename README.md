@@ -48,10 +48,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=wey05&style=for-the-badge)
-
-</div>
