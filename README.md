@@ -88,16 +88,26 @@
   <br/>
   <div align="center">
     <picture>
-      <source srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=wey05&theme=dark&show_icons=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=wey05&show_icons=true&include_all_commits=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wey05&show_icons=true&include_all_commits=true" />
+      <source srcset="https://wey-github-readme-stats.vercel.app/api?username=wey05&theme=dark&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://wey-github-readme-stats.vercel.app/api?username=wey05&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://wey-github-readme-stats.vercel.app/api?username=wey05&show_icons=true&include_all_commits=true&count_private=true" />
+    </picture>
+    <br/>
+    <br/>
+    <picture>
+      <source srcset="https://wey-github-readme-stats.vercel.app/api/top-langs/?username=wey05&layout=compact&theme=dark&count_private=true" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://wey-github-readme-stats.vercel.app/api/top-langs/?username=wey05&layout=compact&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://wey-github-readme-stats.vercel.app/api/top-langs/?username=wey05&layout=compact&count_private=true" />
     </picture>
     <br/>
     <br/>
     <img src="https://streak-stats.demolab.com?user=wey05&theme=dark" />
     <br/>
     <br/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wey05&layout=compact&theme=dark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wey05&theme=darkhub&column=7&margin-w=15&margin-h=15" />
+    <br/>
+    <br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wey05&theme=github-dark" />
     <br/>
     <br/>
     <img src="https://komarev.com/ghpvc/?username=wey05&color=brightgreen&label=Profile%20Views" />
@@ -140,14 +150,3 @@
 
 <div align="center">
 
-### 🙏 感谢访问
-
-⭐ 如果喜欢我的项目，欢迎给个 Star！
-
-💬 欢迎交流学习，共同进步！
-
-**Made with ❤️ by Wey05**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=wey05.wey05)
-
-</div>
