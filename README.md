@@ -87,18 +87,17 @@
   </summary>
   <br/>
   <div align="center">
-    <a href="https://github.com/wey05#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api?username=wey05&theme=dark&show_icons=true&include_all_commits=true" alt="wey05's GitHub stats - Dark" />
-    </a>
-    <a href="https://github.com/wey05#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api?username=wey05&theme=default&show_icons=true&include_all_commits=true" alt="wey05's GitHub stats - Light" />
-    </a>
+    <picture>
+      <source srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=wey05&theme=dark&show_icons=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=wey05&show_icons=true&include_all_commits=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wey05&show_icons=true&include_all_commits=true" />
+    </picture>
     <br/>
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wey05&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=wey05&theme=dark" />
     <br/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wey05&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wey05&layout=compact&theme=dark" />
     <br/>
     <br/>
     <img src="https://komarev.com/ghpvc/?username=wey05&color=brightgreen&label=Profile%20Views" />
