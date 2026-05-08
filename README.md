@@ -6,7 +6,7 @@
   </a>
 </h2>
 
-<img src="image/README/1770027143984.jpg" width="200" style="border-radius:50%" />
+<img src="image/README/1770027143984.jpg" />
 
 </div>
 
