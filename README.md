@@ -59,14 +59,14 @@
   <div align="center">
     <table>
       <tr>
-        <td width="50%">
+        <td width="60%">
           <picture>
             <source srcset="https://wey-github-readme-stats.vercel.app/api?username=wey05&theme=dark&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
             <source srcset="https://wey-github-readme-stats.vercel.app/api?username=wey05&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img src="https://wey-github-readme-stats.vercel.app/api?username=wey05&show_icons=true&include_all_commits=true&count_private=true" />
           </picture>
         </td>
-        <td width="50%">
+        <td width="40%">
           <picture>
             <source srcset="https://wey-github-readme-stats.vercel.app/api/top-langs/?username=wey05&layout=compact&theme=dark&count_private=true" media="(prefers-color-scheme: dark)" />
             <source srcset="https://wey-github-readme-stats.vercel.app/api/top-langs/?username=wey05&layout=compact&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -79,7 +79,7 @@
     <img src="https://streak-stats.demolab.com?user=wey05&theme=dark" />
     <br/>
     <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=wey05&theme=darkhub&column=7&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wey05&theme=darkhub&column=8&margin-w=15&margin-h=15" />
     <br/>
     <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=wey05&theme=github-dark" />
