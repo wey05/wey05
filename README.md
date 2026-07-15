@@ -72,15 +72,9 @@
         </td>
       </tr>
     </table>
-    <br/>
     <img src="https://streak-stats.demolab.com?user=wey05&theme=dark" />
     <br/>
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=wey05&theme=darkhub&column=8&margin-w=15&margin-h=15" />
-    <br/>
-    <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=wey05&theme=github-dark" />
-    <br/>
     <br/>
     <img src="https://komarev.com/ghpvc/?username=wey05&color=brightgreen&label=Profile%20Views" />
     &nbsp;&nbsp;
